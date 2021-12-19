@@ -13,7 +13,11 @@ Example of YoY Dashboard:
 
 <img width="1363" alt="YoY Dashboard Screenshot 2021-12-19" src="https://user-images.githubusercontent.com/41821920/146665025-70f624c9-79df-4eaa-8c36-4a59db9524b1.png">
 
+ 
+Example of PoP Dashboard:
 
+<img width="1363" alt="PoP Dashboard Screenshot 2021-12-19" src="https://user-images.githubusercontent.com/41821920/146665915-796241df-25fe-4a6e-9a9f-cdbeaced5624.png">
+ 
 
 Data Source:
 
