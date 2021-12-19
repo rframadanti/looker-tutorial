@@ -1,4 +1,4 @@
-view: test_demo_yoy_stocks_data {
+view: demo_yoy_stocks_data {
   label: "[Test] Demo: YoY Development of Stocks Data"
 
   derived_table: {
