@@ -16,6 +16,6 @@ Example of YoY Dashboard:
 
 Data Source:
 
-https://www.kaggle.com/camnugent/sandp500/version/4
+S&P 500 stock data in the last 5 years until Feb 2018: https://www.kaggle.com/camnugent/sandp500/version/4
 
-https://datahub.io/core/s-and-p-500-companies
+List of S&P 500 Companies: https://datahub.io/core/s-and-p-500-companies
