@@ -673,6 +673,8 @@ view: demo_pop_stocks_data {
   measure: last_dollar_volume {
     group_label: "Last Period Metrics"
     label: "Last Dollar Volume"
+    type: number
+    value_format: "$#,##0.00"
     sql:
     {% if price_type._parameter_value == 'open' %}
       ${last_dollar_volume_open}
