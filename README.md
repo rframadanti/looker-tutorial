@@ -5,7 +5,7 @@ Model file: looker_tutorial.model.lkml
 
 View files:
 - demo_pop_stocks_data.view.lkml - View for Period over Period (PoP) analysis
-- demo_top_stocks_data.view.lkml - View for Dynamic Ranking of Top Companies
+- demo_top_stocks_data.view.lkml - View for Dynamic Ranking of Top Stocks
 - demo_yoy_stocks_data.view.lkml - View for Year over Year (YoY) analysis
 
 
