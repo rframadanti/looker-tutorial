@@ -1,4 +1,4 @@
-view: test_demo_top_stocks_data {
+view: demo_top_stocks_data {
   label: "[Test] Demo: Dynamic Top Stocks Data"
 
   derived_table: {
