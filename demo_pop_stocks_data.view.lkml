@@ -1,4 +1,4 @@
-view: test_demo_pop_stocks_data {
+view: demo_pop_stocks_data {
   label: "[Test] Demo: PoP Development of Stocks Data"
 
   derived_table: {
