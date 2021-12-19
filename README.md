@@ -12,3 +12,7 @@ View files:
 Example of YoY Dashboard:
 
 <img width="1364" alt="YoY Dashboard Screenshot 2021-12-18" src="https://user-images.githubusercontent.com/41821920/146664801-9ccb2d03-6be5-4a66-86a7-9db7ba7366bb.png">
+
+Data Source:
+https://www.kaggle.com/camnugent/sandp500/version/4
+https://datahub.io/core/s-and-p-500-companies
